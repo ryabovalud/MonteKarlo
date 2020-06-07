@@ -1,0 +1,12 @@
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\bin\Debug\MonteKarlo-Peshehod.exe.config
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\bin\Debug\MonteKarlo-Peshehod.exe
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\bin\Debug\MonteKarlo-Peshehod.pdb
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo-Peshehod.csprojAssemblyReference.cache
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo_Peshehod.Form1.resources
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo_Peshehod.Properties.Resources.resources
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo-Peshehod.csproj.GenerateResource.cache
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo-Peshehod.csproj.CoreCompileInputs.cache
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo-Peshehod.exe
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo-Peshehod.pdb
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo_Peshehod.Form2.resources
+C:\Users\brrri\OneDrive\Study\MSS\MonteKarlo-Peshehod\MonteKarlo-Peshehod\obj\Debug\MonteKarlo_Peshehod.Form3.resources
